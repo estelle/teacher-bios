@@ -12,3 +12,5 @@ photo-url: https://raw.githubusercontent.com/FrontendMasters/teacher-bios/master
 twitter-username: @kentcdodds
 github-url: https://github.com/kentcdodds
 ---
+
+Kent C. Dodds works at PayPal as a full stack JavaScript Engineer. He represents PayPal on the TC39. He's actively involved in the open source community as a creator and contributor. He does a bunch of stuff in the React and general JavaScript ecosystem. Kent's an Egghead.io instructor, Frontend Masters instructor, and Google Developer Expert. He's happily married and the father of four kids. He like code. He care about craft, design, tools, and architecture.
